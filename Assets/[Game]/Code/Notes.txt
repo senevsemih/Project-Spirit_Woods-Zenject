@@ -1,0 +1,11 @@
+- Character
+- Enemy
+- Rifts
+- UI
+- Camera
+- Gun
+- Projectile
+
+*WIP*
+ -Rifts.
+ -Rift Progress bar.
